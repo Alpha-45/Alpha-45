@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alpha-45
+- 👋 Hi, I’m @Alpha 
 - 👀 I’m interested in Web Development & Digital Marketing 
 - 🌱 I’m currently learning React JS
 - 📫 How to reach me - Instagram - alpha_45
